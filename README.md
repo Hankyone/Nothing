@@ -99,7 +99,11 @@ If you must contribute, follow these guidelines:
 - [✓] Q1 2024: Nothing
 - [✓] Q2 2024: Nothing  
 - [✓] Q3 2024: Nothing
-- [ ] Q4 2024: Absolutely Nothing
+- [✓] Q4 2024: Absolutely Nothing
+- [✓] Q1 2025: Still Nothing
+- [✓] Q2 2025: Nothing 2: Electric Boogaloo
+- [🔄] Q3 2025: Even More Nothing (in progress)
+- [ ] Q4 2025: The Nothingness Continues
 
 ## 💬 Testimonials
 
@@ -125,9 +129,13 @@ Thanks to:
 ---
 
 <p align="center">
-  Made with 💔 by developers who've had enough
+  Made with 💔 by builders who have built enough
 </p>
 
 <p align="center">
-  <sub>Copyright © ∅ Nothing Inc. All rights reserved. Or not. We don't care.</sub>
+  <sub>Copyright © ∅ ShadeSec Inc. All rights reserved. Or not. We don't care.</sub>
+</p>
+
+<p align="center">
+  <sub><sub>Wait, who the heck is ShadeSec Inc.?</sub></sub>
 </p>
