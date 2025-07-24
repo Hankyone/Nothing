@@ -1,0 +1,34 @@
+{
+  "name": "nothing",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "echo 'Error: Nothing to start' && exit 1",
+    "build": "echo 'Build complete: 0 files processed in 0ms'",
+    "test": "echo 'All 0 tests passed!'",
+    "deploy": "echo 'Successfully deployed Nothing nowhere'",
+    "install": "echo 'Nothing installed successfully' && rm -rf node_modules package-lock.json",
+    "uninstall": "echo 'You can never truly uninstall Nothing'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/null/nothing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/null/nothing/issues/new",
+    "email": "/dev/null"
+  },
+  "homepage": "",
+  "engines": {
+    "node": "*",
+    "npm": "*",
+    "void": "∞"
+  },
+  "bin": {}
+}

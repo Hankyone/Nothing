@@ -1,0 +1,28 @@
+# Nothing to ignore
+# But we'll pretend anyway
+
+node_modules/
+*.log
+.DS_Store
+.env
+dist/
+build/
+coverage/
+.idea/
+.vscode/
+
+# Actually, ignore everything
+*
+
+# But don't ignore Nothing
+!.gitignore
+!README.md
+!CONTRIBUTING.md
+!package.json
+!src/.gitkeep
+!examples/.gitkeep
+!tests/.gitkeep
+!docs/.gitkeep
+
+# Wait, those don't exist either
+# Perfect.
