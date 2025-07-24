@@ -1,7 +1,7 @@
 {
   "name": "nothing",
   "version": "0.0.0",
-  "description": "",
+  "description": "The revolutionary framework that does absolutely nothing",
   "main": "",
   "scripts": {
     "start": "echo 'Error: Nothing to start' && exit 1",
