@@ -11,18 +11,8 @@ coverage/
 .idea/
 .vscode/
 
-# Actually, ignore everything
-*
+# Actually, ignore nothing (except the usual suspects)
+# This way all our Nothing content is visible
 
-# But don't ignore Nothing
-!.gitignore
-!README.md
-!CONTRIBUTING.md
-!package.json
-!src/.gitkeep
-!examples/.gitkeep
-!tests/.gitkeep
-!docs/.gitkeep
-
-# Wait, those don't exist either
-# Perfect.
+# But we still ignore these normal things:
+.claude/
